@@ -1,0 +1,16 @@
+{
+    "name": "ausra/project",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "Project\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "ausraal",
+            "email": "ausra.al@gmail.com"
+        }
+    ],
+    "require": {}
+}

@@ -1,0 +1,56 @@
+{
+    "0": {
+        "ownerName": "Sniege",
+        "dogName": "\u0160unis",
+        "dogBreed": "big",
+        "visitDate": "2023-03-21",
+        "visitTime": "15:30",
+        "phoneNumber": "37011122255",
+        "id": "64031e0dc15a1>"
+    },
+    "2": {
+        "ownerName": "Kirstukas",
+        "dogName": "Turbo",
+        "dogBreed": "pudelis",
+        "visitDate": "2023-04-26",
+        "visitTime": "7:30",
+        "phoneNumber": "37066644422",
+        "id": "64031e86a732f>"
+    },
+    "3": {
+        "ownerName": "Antinas",
+        "dogName": "Taiga",
+        "dogBreed": "didelis",
+        "visitDate": "2023-03-29",
+        "visitTime": "14:30",
+        "phoneNumber": "37066699911",
+        "id": "64033204270f0>"
+    },
+    "4": {
+        "ownerName": "Queen",
+        "dogName": "Drama Queen",
+        "dogBreed": "korgis",
+        "visitDate": "2023-04-07",
+        "visitTime": "16:30",
+        "phoneNumber": "37066699944",
+        "id": "64035dc625eb3>"
+    },
+    "5": {
+        "ownerName": "GUDRIENE",
+        "dogName": "\u0160uneliukas",
+        "dogBreed": "airiu seteris",
+        "visitDate": "2023-03-15",
+        "visitTime": "12:30",
+        "phoneNumber": "37066699922",
+        "id": "6403882883c26>"
+    },
+    "6": {
+        "ownerName": "P\u016bga",
+        "dogName": "Taiga",
+        "dogBreed": "airiu seteris",
+        "visitDate": "2023-03-20",
+        "visitTime": "17:30",
+        "phoneNumber": "37066699911",
+        "id": "64038945bcd89>"
+    }
+}
