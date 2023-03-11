@@ -5,7 +5,7 @@ In order to run this project on your computer please follow instructions below.
 1. Open XAMPP Control Panel and turn on the Apache server by pressing "Start".
 2. Open a terminal in your code editor (PHPStorm or VS Code).
 3. Navigate to the directory where you want to store this project by entering cd and directory path in terminal.
-4. In terminal write git clone <>.
+4. In terminal write git clone <https://github.com/ausraal/PHP-Project.git>.
 5. Download Composer from the official website: https://getcomposer.org/download/
 6. Follow the instructions provided on the website to install Composer on your system.
 7. Write command composer install in Terminal in order to install project dependencies.
